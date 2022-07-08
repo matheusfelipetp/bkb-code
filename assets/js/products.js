@@ -1,0 +1,92 @@
+const products = [
+  {
+    id: 0,
+    name: "Combo Whopper",
+    price: 32.9,
+    image: "./assets/img/combo_whopper.png",
+  },
+  {
+    id: 1,
+    name: "BK Chicken",
+    price: 16.9,
+    image: "./assets/img/bk_chicken.png",
+  },
+  {
+    id: 2,
+    name: "Sorvete",
+    price: 9.8,
+    image: "./assets/img/sorvete.png",
+  },
+  {
+    id: 3,
+    name: "Cheddar Duplo",
+    price: 13.9,
+    image: "./assets/img/cheddar_duplo.png",
+  },
+  {
+    id: 4,
+    name: "Combo Whopper Rodeio",
+    price: 38.9,
+    image: "./assets/img/whopper_rodeio.png",
+  },
+  {
+    id: 5,
+    name: "Onion Rings",
+    price: 11.9,
+    image: "./assets/img/onion_rings.png",
+  },
+  {
+    id: 6,
+    name: "BK Mix Ovomaltine",
+    price: 9.25,
+    image: "./assets/img/bk_mix.png",
+  },
+  {
+    id: 7,
+    name: "Cheddar",
+    price: 11.9,
+    image: "./assets/img/cheddar.png",
+  },
+  {
+    id: 8,
+    name: "Shake Brownie",
+    price: 11.35,
+    image: "./assets/img/shake.png",
+  },
+  {
+    id: 9,
+    name: "BK Mix Ovomaltine",
+    price: 9.25,
+    image: "./assets/img/bk_mix.png",
+  },
+  {
+    id: 10,
+    name: "Cheddar",
+    price: 11.9,
+    image: "./assets/img/cheddar.png",
+  },
+  {
+    id: 11,
+    name: "Onion Rings",
+    price: 11.9,
+    image: "./assets/img/onion_rings.png",
+  },
+  {
+    id: 12,
+    name: "Combo Whopper",
+    price: 32.9,
+    image: "./assets/img/combo_whopper.png",
+  },
+  {
+    id: 13,
+    name: "Sorvete",
+    price: 9.8,
+    image: "./assets/img/sorvete.png",
+  },
+  {
+    id: 14,
+    name: "Shake Brownie",
+    price: 11.35,
+    image: "./assets/img/shake.png",
+  },
+];
